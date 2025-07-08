@@ -2,6 +2,8 @@
 this repo is an demonstration for using large datasets for supervised learning  Short Description:
 An end-to-end intrusion detection system built with a Spinal Stacked AutoEncoder network trained on the Bot‑IoT dataset. Utilizes efficient Parquet data handling, class imbalance techniques, and a hybrid deep-learning architecture to detect cyber-attacks in IoT environments.
 
+Dataset link:- https://www.kaggle.com/datasets/vigneshvenkateswaran/bot-iot
+
 Project Overview
 Data Format:
 Uses Apache Parquet for efficient large-scale data handling. Parquet saves memory and accelerates I/O operations compared to CSV, essential for datasets with tens of millions of records 
