@@ -45,7 +45,7 @@ Trained via Adam optimizer with learning rate decay and early stopping
 
 Performance:
 
-Achieved 96–99 % accuracy, high precision/recall/F1 across attack categories 
+Achieved 94 % accuracy, high precision/recall/F1 across attack categories 
 Outperformed traditional ML (Decision Trees, Random Forests, SVMs)
 
 Deployment Ready:
